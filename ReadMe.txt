@@ -13,3 +13,7 @@ THE LOTTERY ALGORITHM:
 
 5.The contract will transfer entire balance to the winner's address and the lottery will registered
   and be ready for the next round
+  
+  TEST CODE:-
+  
+  TO Test the code run the above smart contract on VS CODE or the REMIX IDE 
